@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9fb69"/><stop offset="1" stop-color="#a9cf3c"/></linearGradient></defs>
+  <rect width="64" height="64" rx="4" fill="#090c0b"/>
+  <path d="M10 12H54L48 52H7Z" fill="none" stroke="url(#g)" stroke-width="1.7"/>
+  <path d="M15 47L45 17" stroke="#f0f0e6" stroke-opacity=".14" stroke-width="1"/>
+  <text x="31" y="37" font-family="Arial,sans-serif" font-size="20" font-weight="800" fill="#f0f0e6" text-anchor="middle" letter-spacing="-2">NR</text>
+  <path d="M44 44h10v7H44z" fill="#fa744b"/>
+</svg>
